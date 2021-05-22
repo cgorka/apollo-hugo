@@ -1,6 +1,7 @@
 ---
 title: About
 description: this is meta description
+image: "/images/logo-via-logohub-1.png"
 
 ---
 {{< center >}}
