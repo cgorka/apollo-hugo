@@ -8,9 +8,9 @@ title = "Stowarzyszenie Zielona Cerekiew"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "About"
-url = "about"
-weight = 1
+name = "O nas"
+url = ""
+weight = ""
 [[menu.main]]
 name = "Elemetns"
 url = "elements"
