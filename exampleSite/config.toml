@@ -27,7 +27,7 @@ weight = 4
 home = ["HTML", "RSS"]
 [params]
 author = "Cgorka"
-banner_content = "Jesteśmy grupą osób, które chcą pozytywnego, pozbawionego waśni, sporów miejsca w którym żujemy. Pracujemy na rzecz społeczności lokalnej, naszych sąsiadów i mieszkańców."
+banner_content = "Jesteśmy grupą osób, które chcą pozytywnego, pozbawionego waśni, sporów miejsca w którym żyjemy. Pracujemy na rzecz społeczności lokalnej, naszych sąsiadów i mieszkańców."
 copyright = "ZielonaCerekiew.pl"
 custom_script = ""
 description = "Zielona Cerekiew"
