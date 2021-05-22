@@ -1,9 +1,10 @@
 ---
-title: "Contact"
-description: "this is meta description"
-draft: false
----
+title: Contact
+description: this is meta description
 
+---
 {{< center >}}
-# Contact Page Is Coming Soon . . .
+
+###### zielonacerekiew@gmail.com
+
 {{</ center >}}
