@@ -1,5 +1,5 @@
 ---
-title: Status
+title: Statut
 description: this is meta description
 
 ---
