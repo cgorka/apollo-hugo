@@ -7,7 +7,7 @@ description: this is meta description
 
 1. Stowarzyszenie nosi nazwę: „Zielona Cerekiew”, dalej zwane jest „Stowarzyszeniem”.
 2. Stowarzyszenie działa na podstawie ustawy z 7 kwietnia 1989 roku prawo o stowarzyszeniach.
-3. Siedziba Stowarzyszenia mieści się w Cerekwi, woj. Mazowieckie. Terenem działania Stowarzyszenia jest Województwo Mazowieckie, a w szczególności dzielnica miasta stołecznego Cerekiew w Gminie Zakrzew.
+3. Siedziba Stowarzyszenia mieści się w Cerekwi, woj. Mazowieckie. Terenem działania Stowarzyszenia jest Województwo Mazowieckie, a w szczególności  Cerekiew w Gminie Zakrzew.
 4. W granicach określonych prawem, Stowarzyszenie może prowadzić działalność poza terytorium Rzeczypospolitej Polskiej, a w szczególności w krajach Unii Europejskiej.
 5. Stowarzyszenie jest powołane na czas nieokreślony.
 6. Stowarzyszenie może przystępować do organizacji, w tym stowarzyszeń, realizujących cele podobne do celów Stowarzyszenia, z siedzibą na terytorium Rzeczypospolitej Polskiej lub poza jej terytorium.
@@ -17,12 +17,12 @@ description: this is meta description
 
 Celem Stowarzyszenia jest:
 
-1. wspieranie wszelkich inicjatyw mieszkańców dzielnicy Wilanów.
+1. wspieranie wszelkich inicjatyw mieszkańców Cerekwi.
 2. wspieranie i upowszechnianie samorządności lokalnej mieszkańców Cerekwi
 3. Cele Stowarzyszenie są realizowane w szczególności poprzez:
 4. organizowanie szkoleń, warsztatów, dla mieszkańców Cerekwi;
    1. umożliwianie realizacji projektów w zakresie kultury, edukacji, sportu, spraw społecznych, realizowanych na terenie Cerekwi, poprzez wsparcie finansowe, merytoryczne ;
-   2. wpieranie mieszkańców dzielnicy Cerekwi w rozwiązywaniu wszelkich problemów związanych z kwestiami społecznymi, bytowymi w szczególności jako organizacja reprezentująca mieszkańców w sporach z organami administracji lokalnej;
+   2. wpieranie mieszkańców  Cerekwi w rozwiązywaniu wszelkich problemów związanych z kwestiami społecznymi, bytowymi w szczególności jako organizacja reprezentująca mieszkańców w sporach z organami administracji lokalnej;
    3. wydawanie i rozprowadzanie materiałów reklamowych i edukacyjnych propagujących cele, inicjatywy i projekty realizowane przez stowarzyszenie;
    4. organizowanie spotkań, debat, prelekcji;
    5. udział w lokalnych wyborach samorządowych.
@@ -38,15 +38,11 @@ Celem Stowarzyszenia jest:
         * osobom małoletnim poniżej 16 roku życia nie przysługuje bierne i czynne prawo wyborcze do władz Stowarzyszenia;
           * zgłaszać wnioski i postulaty dotyczące działalności Stowarzyszenia;
           * korzystać z pomocy i wsparcia Stowarzyszenia na zasadach przewidzianych w statucie i innych dokumentach Stowarzyszenia.
-
-
    6. Do obowiązków członków Stowarzyszenia należy:
       1. przestrzeganie postanowień statutu, regulaminów i uchwał władz Stowarzyszenia;
       2. regularne opłacanie składek członkowskich;
       3. propagowanie dobrego imienia Stowarzyszenia;
       4. aktywne uczestniczenie w działalności Stowarzyszenia.
-
-
    7. Członkiem Stowarzyszenia może zostać osoba, która spełnia warunki określone w statucie Stowarzyszenia, akceptuje statut oraz wyraża wolę aktywnego uczestniczenia w pracach Stowarzyszenia.
    8. Kandydat na członka Stowarzyszenia wypełnia deklarację członkowską. Osoba, której kandydatura zostanie pozytywnie zweryfikowana przez zarząd Stowarzyszenia staje się członkiem Stowarzyszenia na podstawie uchwały zarządu Stowarzyszenia.
    9. Członkostwo w Stowarzyszeniu ustaje na skutek:
@@ -64,7 +60,6 @@ Celem Stowarzyszenia jest:
    2. Zarząd;
    3. Komisja rewizyjna.
 
-  
 4\.1. Walne Zgromadzenie
 
 1. Walne Zgromadzenie jest najwyższą władzą Stowarzyszenia. W Walnym Zgromadzeniu mogą brać udział członkowie zwykli Stowarzyszenia z zastrzeżeniem ograniczeń przewidzianych w ust. 3.1. pkt. 5 statutu oraz członkowie wspierający na zasadach określonych w ust. 3.2. pkt. 3 statutu.
@@ -85,7 +80,7 @@ Celem Stowarzyszenia jest:
     5. zatwierdzanie sprawozdań komisji rewizyjnej z jej działalności;
     6. ustalanie wysokości i terminu opłacania składek członkowskich;
     7. nadawanie statusu członka wspierającego Stowarzyszenia;
-    8. podejmowanie uchwał wyrażających zgodę dla Zarządu, na czynności w sprawach wykraczających poza zwykły zarząd a w szczególności dotyczących zaciągania majątkowych zobowiązań lub nabywania prawa o wartości przekraczającej 50.000 zł (pięćdziesiąt tysięcy złotych);
+    8. podejmowanie uchwał wyrażających zgodę dla Zarządu, na czynności w sprawach wykraczających poza zwykły zarząd a w szczególności dotyczących zaciągania majątkowych zobowiązań lub nabywania prawa o wartości przekraczającej 5.000 zł (pięć tysięcy złotych);
     9. podejmowanie uchwał dotyczących zmian statutu lub rozwiązania Stowarzyszenia oraz przeznaczenia majątku Stowarzyszenia po jego rozwiązaniu z zastrzeżeniem ograniczeń w par. 5 pkt 2. statutu;
    10. rozpatrywanie odwołań od uchwał Zarządu;
    11. uchwalanie regulaminów wewnętrznych;
@@ -97,7 +92,7 @@ Celem Stowarzyszenia jest:
 4\.3. Zarząd
 
 1. Organem wykonawczym Stowarzyszenia jest zarząd.
-2. W skład zarządu wchodzi prezes oraz dwaj do czterech członków. Zarząd jest powoływany na 2 (dwa) lata. Pierwsza kadencja Zarządu kończy się wraz z zatwierdzeniem sprawozdania finansowego za 2019rok.
+2. W skład zarządu wchodzi prezes oraz dwaj do czterech członków. Zarząd jest powoływany na 2 (dwa) lata. Pierwsza kadencja Zarządu kończy się wraz z zatwierdzeniem sprawozdania finansowego za 2023rok.
 3. Do kompetencji Zarządu należy:
     1. reprezentowanie Stowarzyszenia oraz prowadzenie jego spraw w granicach określonych statutem. Do reprezentowania Stowarzyszenia w sprawach zaciągania zobowiązań lub nabywania praw związanych z rozporządzaniem majątkiem Stowarzyszenia wymagane jest działanie prezesa z jednym członkiem zarządu lub dwóch członków zarządu łącznie. W pozostałych sprawach każdy członek zarządu może reprezentować Stowarzyszenie oraz prowadzić sprawy Stowarzyszenia samodzielnie w granicach kompetencji zarządu;
     2. realizacja uchwał Walnego Zgromadzenia;
@@ -113,7 +108,7 @@ Celem Stowarzyszenia jest:
 4\.4. Komisja rewizyjna
 
 1. Komisja rewizyjna składa się z 2 (dwóch) do 3 (trzech) członków, spośród których członkowie komisji rewizyjnej wybierają przewodniczącego.
-2. Komisja rewizyjna jest powoływana na dwa lata. Pierwsza kadencja komisji rewizyjnej kończy się wraz z zatwierdzeniem sprawozdania finansowego za 2019 rok.
+2. Komisja rewizyjna jest powoływana na dwa lata. Pierwsza kadencja komisji rewizyjnej kończy się wraz z zatwierdzeniem sprawozdania finansowego za 2023rok.
 3. Członkiem komisji rewizyjnej nie może zostać osoba, która:
     1. jest członkiem zarządu lub pozostaje z członkiem zarządu w stosunku pokrewieństwa, powinowactwa lub podległości z tytułu zatrudnienia, lub
     2. była skazana na karę pozbawienia wolności prawomocnym wyrokiem za przestępstwo z winy umyślnej.
@@ -130,12 +125,8 @@ Celem Stowarzyszenia jest:
 
 1. Majątek Stowarzyszenia tworzony jest z:
    1. składek członkowskich;
-
-
-   1. darowizn, spadków, dotacji, zapisów;
-
-
-   2. Stowarzyszeniu nie wolno:
+   2. darowizn, spadków, dotacji, zapisów;
+   3. Stowarzyszeniu nie wolno:
       1. udzielać pożyczek lub zabezpieczać zobowiązań majątkiem Stowarzyszenia w stosunku do jego członków, członków władz Stowarzyszenia lub pracowników oraz osób, z którymi członkowie Stowarzyszenia, członkowie władz Stowarzyszenia lub pracownicy pozostają w związku małżeńskim albo stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia albo są związani z tytułu przysposobienia, opieki lub kurateli, zwanych dalej „**Osobami Bliskimi**”,
       2. przekazywać majątku Stowarzyszenia na rzecz jego członków, członków władz Stowarzyszenia lub pracowników oraz Osób Bliskich, na zasadach innych niż w stosunku do osób trzecich, w szczególności jeżeli przekazanie to następuje bezpłatnie lub na preferencyjnych warunkach,
       3. wykorzystywać majątku na rzecz członków Stowarzyszenia, członków władz Stowarzyszenia lub pracowników oraz Osób Bliskich na zasadach innych niż w stosunku do osób trzecich, chyba, że to wykorzystanie bezpośrednio wynika ze statutu Stowarzyszenia,
@@ -145,7 +136,5 @@ Celem Stowarzyszenia jest:
 # § 6 Postanowienia końcowe
 
 1. W przypadku podjęcia uchwały o rozwiązaniu Stowarzyszenia i o przeznaczeniu jego majątku pozostałego po likwidacji, Walne Zgromadzenie ma obowiązek wyznaczyć likwidatorów Stowarzyszenia, którzy będą odpowiedzialni za przeprowadzenie likwidacji Stowarzyszenia.
-
 2. Uchwałę o wyborze likwidatorów, Walne Zgromadzenie podejmuje w trybie określonym w par. 4 ust. 4.2. pkt. 10 statutu.
-
 3. Po zarejestrowaniu Stowarzyszenia, komitet założycielski zwoła pierwsze Walne Zgromadzenie, na którym zostaną przeprowadzone wybory do zarządu i komisji rewizyjnej.
