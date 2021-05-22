@@ -13,13 +13,17 @@ Jesteśmy grupą osób, które chcą  pozytywnego, pozbawionego waśni, sporów 
 
 {{< center >}}
 
-**INICJATYWA**
+# **INICJATYWA**
 
 {{</ center >}}
 
 Inicjatywa powstania Stowarzyszenia Zielona Cerekiew narodziła się w 2021 roku wśród grupy przyjaciół-sąsiadów mieszkających na terenie Cerekewi.
 
-**IDEA**
+{{< center >}}
+
+# **IDEA**
+
+{{</ center >}}
 
 Krótko po tym, jak pojawiła się idea stworzenia stowarzyszenia, rozpoczęliśmy rozmowy w szerszym gronie, równie pozytywnych mieszkańców dzielnicy. Grupa do tej pory zaangażowanych osób powiększyła się o kolejne i kolejne.
 
