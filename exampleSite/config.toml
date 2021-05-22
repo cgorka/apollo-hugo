@@ -9,8 +9,8 @@ title = "Stowarzyszenie Zielona Cerekiew"
 unsafe = true
 [[menu.main]]
 name = "O nas"
-url = ""
-weight = ""
+url = "About"
+weight = "1"
 [[menu.main]]
 name = "Nasze Cele"
 url = "elements"
