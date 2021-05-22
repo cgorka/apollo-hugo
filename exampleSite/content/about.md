@@ -1,6 +1,6 @@
 ---
-title: About
-description: this is meta description
+title: O nas
+description: O nas
 image: "/images/logo-via-logohub-1.png"
 
 ---
