@@ -1,20 +1,16 @@
 ---
-title: "The World Population"
-date: 2020-09-01T11:07:10+06:00
-image: "images/blog/blog-8.jpg"
-image_webp: "images/blog/blog-8.webp"
-description: "this is meta description"
-categories: ["population", "nature"]
-draft: false
+title: Cerekiew, kościół parafialny p.w. św. Stanisława Bpa, 1929 r.
+date: 2020-09-01T11:07:10.000+06:00
+image: "/images/kosciol2.jpeg"
+image_webp: images/blog/blog-8.webp
+description: this is meta description
+categories:
+- population
+- nature
+
 ---
+Pierwszy drewniany kościół parafialny istniał już w 1326 r. w 1 poł. XVi w. wzniesiono kościół murowany z fundacji Mikołaja Dzika wojskiego radomskiego. w XVIIi w. był zniszczony i ograbiony przez wojska szwedzkie. Do roku 1899 kościół na nowo został urządzony, odremontowany i przywrócony do kultu religijnego. Został rozebrany w 1928 r. Obecny kościół powstał w 1929 r. wg projektu Stefana Szyllera, staraniem ks. dr. Adama Popkiewicza. w roku 1945 ostrzał artyleryjski uszkodził wyniosłą i piękną wieżę kościoła oraz nawę boczną z witrażami. Ponownie po wojnie rozpoczęto odbudowę kościoła. Kościół jest murowany z cegły, eklektyczny (elementy neobaroku i renesansu oraz gotyku), orientowany, w typie bazyliki trójnawowej z transeptem. Bryła rozczłonkowana, o wielobocznym prezbiterium. Mury wspierane są przez kamienne przypory. Od północy monumentalna wieża prostokątna zakończona cebulowatym hełmem na wielobocznej podstawie. Do głównego korpusu przylega wiele przybudówek o przekroju prostokątnym lub wielobocznym. Posiada dekoracyjne portale, gzymsy wydatne, wnęki na figury. Szczyt zachodni flankowany spływami. Wnętrze podzielone filarami i kolumnami jońskimi. w 1954 r. teren cmentarza został ogrodzony murem kamiennym.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Zrodło:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[https://zakrzew.pl/historia-i-zabytki/](https://zakrzew.pl/historia-i-zabytki/ "https://zakrzew.pl/historia-i-zabytki/")
