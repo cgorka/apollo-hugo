@@ -1,166 +1,151 @@
 ---
-title: "Elements"
-description: "this is meta description"
-draft: false
+title: Elements
+description: this is meta description
+
 ---
+## § 1 Postanowienia ogóle
+
+1. Stowarzyszenie nosi nazwę: „Zielona Cerekiew”, dalej zwane jest „Stowarzyszeniem”.
+2. Stowarzyszenie działa na podstawie ustawy z 7 kwietnia 1989 roku prawo o stowarzyszeniach.
+3. Siedziba Stowarzyszenia mieści się w Cerekwi, woj. Mazowieckie. Terenem działania Stowarzyszenia jest Województwo Mazowieckie, a w szczególności dzielnica miasta stołecznego Cerekiew w Gminie Zakrzew.
+4. W granicach określonych prawem, Stowarzyszenie może prowadzić działalność poza terytorium Rzeczypospolitej Polskiej, a w szczególności w krajach Unii Europejskiej.
+5. Stowarzyszenie jest powołane na czas nieokreślony.
+6. Stowarzyszenie może przystępować do organizacji, w tym stowarzyszeń, realizujących cele podobne do celów Stowarzyszenia, z siedzibą na terytorium Rzeczypospolitej Polskiej lub poza jej terytorium.
+7. Stowarzyszenie może używać pieczęci i oznak.
+
+## § 2 Cele i sposoby ich realizacji
+
+Celem Stowarzyszenia jest:
+
+1. wspieranie wszelkich inicjatyw mieszkańców dzielnicy Wilanów.
+2. wspieranie i upowszechnianie samorządności lokalnej mieszkańców Cerekwi
+3. Cele Stowarzyszenie są realizowane w szczególności poprzez:
+4. organizowanie szkoleń, warsztatów, dla mieszkańców Cerekwi;
+   1. umożliwianie realizacji projektów w zakresie kultury, edukacji, sportu, spraw społecznych, realizowanych na terenie Cerekwi, poprzez wsparcie finansowe, merytoryczne ;
+   2. wpieranie mieszkańców dzielnicy Cerekwi w rozwiązywaniu wszelkich problemów związanych z kwestiami społecznymi, bytowymi w szczególności jako organizacja reprezentująca mieszkańców w sporach z organami administracji lokalnej;
+   3. wydawanie i rozprowadzanie materiałów reklamowych i edukacyjnych propagujących cele, inicjatywy i projekty realizowane przez stowarzyszenie;
+   4. organizowanie spotkań, debat, prelekcji;
+   5. udział w lokalnych wyborach samorządowych.
+
+   ## § 3 Członkowie, ich prawa i obowiązki
+   1. Członkiem Stowarzyszenia może być obywatel polski, mający pełną zdolność do czynności prawnych i nie pozbawiony praw publicznych.
+   2. Członkiem Stowarzyszenia może być również małoletni obywatel polski w wieku od 16 do 18 lat, który ma ograniczoną zdolność do czynności prawnych.
+   3. Za zgodą przedstawicieli ustawowych, członkiem Stowarzyszenia może być również małoletni obywatel polski poniżej 16 roku życia.
+   4. Cudzoziemcy, mający i nie mający miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej mogą być członkami Stowarzyszenia na zasadach właściwych dla obywateli polskich.
+   5. Członkowie Stowarzyszenia mają prawo:
+      * wybierać i być wybieranym do władz Stowarzyszenia, z tym, że:
+        * w składzie zarządu Stowarzyszenia większość muszą stanowić osoby o pełnej zdolności do czynności prawnych;
+        * osobom małoletnim poniżej 16 roku życia nie przysługuje bierne i czynne prawo wyborcze do władz Stowarzyszenia;
+          * zgłaszać wnioski i postulaty dotyczące działalności Stowarzyszenia;
+          * korzystać z pomocy i wsparcia Stowarzyszenia na zasadach przewidzianych w statucie i innych dokumentach Stowarzyszenia.
 
 
-#### Heading example
-
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
-
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
-
-<hr>
-
-##### Emphasis
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-#### Notice
-
-{{< notice "note" >}}
-  This is a simple note.
-{{< /notice >}}
-
-{{< notice "tip" >}}
-  This is a simple tip.
-{{< /notice >}}
-
-{{< notice "info" >}}
-  This is a simple info.
-{{< /notice >}}
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+   6. Do obowiązków członków Stowarzyszenia należy:
+      1. przestrzeganie postanowień statutu, regulaminów i uchwał władz Stowarzyszenia;
+      2. regularne opłacanie składek członkowskich;
+      3. propagowanie dobrego imienia Stowarzyszenia;
+      4. aktywne uczestniczenie w działalności Stowarzyszenia.
 
 
-<hr>
+   7. Członkiem Stowarzyszenia może zostać osoba, która spełnia warunki określone w statucie Stowarzyszenia, akceptuje statut oraz wyraża wolę aktywnego uczestniczenia w pracach Stowarzyszenia.
+   8. Kandydat na członka Stowarzyszenia wypełnia deklarację członkowską. Osoba, której kandydatura zostanie pozytywnie zweryfikowana przez zarząd Stowarzyszenia staje się członkiem Stowarzyszenia na podstawie uchwały zarządu Stowarzyszenia.
+   9. Członkostwo w Stowarzyszeniu ustaje na skutek:
+      1. dobrowolnego wystąpienia ze Stowarzyszenia zgłoszonego na piśmie do zarządu Stowarzyszenia;
+      2. skreślenia z listy członków Stowarzyszenia przez zarząd Stowarzyszenia na mocy uchwały zarządu, która może zostać podjęta w związku z nie opłacaniem składek członkowskich za pełne dwa okresy rozliczeniowe, nie wcześniej jednak niż po 14 (czternastu) dniach od wysłania upomnienia na adres członka Stowarzyszenia wskazany w deklaracji członkowskiej;
+      3. wykluczenia na mocy uchwały zarządu ze Stowarzyszenia na skutek działalności członka Stowarzyszenia sprzecznej ze statutem, regulaminami lub uchwałami władz Stowarzyszenia lub na skutek działania na szkodę Stowarzyszenia;  
+         uczestniczyć z prawem stanowiącym w głosowaniu w walnym zgromadzeniu członków Stowarzyszenia, z tym, że osobom małoletnim poniżej 16 roku życia nie przysługuje prawo głosowania w walnych zgromadzeniach członków Stowarzyszenia;
+      4. śmierci członka Stowarzyszenia lub utraty przez niego pełnej zdolności do czynności prawnej lub praw publicznych.
+      5. Od uchwały zarządu w sprawie skreślenia z listy członków lub wykluczenia ze Stowarzyszenia przysługuje odwołanie do walnego zgromadzenia członków Stowarzyszenia. Termin do złożenia odwołania wynosi 30 (trzydzieści) dni od dnia podjęcia uchwały zarządu. Walne zgromadzenie Stowarzyszenia jest zobowiązane rozpatrzyć odwołanie w terminie 90 dni od ostatniego dnia, w którym upłynął termin do złożenia odwołania. Uchwała walnego zgromadzenia członków Stowarzyszenia jest ostateczna, o ile inaczej nie stanowią bezwzględnie obowiązujące przepisy prawa polskiego
 
-##### Tables
+# § 4 Władze Stowarzyszenia
 
-Colons can be used to align columns.
+1. Władzami Stowarzyszenia są:
+   1. Walne zgromadzenie członków Stowarzyszenia, zwane dalej „**Walnym Zgromadzeniem**”;
+   2. Zarząd;
+   3. Komisja rewizyjna.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+  
+4\.1. Walne Zgromadzenie
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
+1. Walne Zgromadzenie jest najwyższą władzą Stowarzyszenia. W Walnym Zgromadzeniu mogą brać udział członkowie zwykli Stowarzyszenia z zastrzeżeniem ograniczeń przewidzianych w ust. 3.1. pkt. 5 statutu oraz członkowie wspierający na zasadach określonych w ust. 3.2. pkt. 3 statutu.
+2. Walne Zgromadzenie może być zwyczajne lub nadzwyczajne.
+3. Zwyczajne Walne Zgromadzenie zwołuje zarząd raz w roku nie później niż w terminie sześciu miesięcy od zakończenia poprzedniego roku obrachunkowego.
+4. Nadzwyczajne Walne Zgromadzenie zwołuje Zarząd:
+   1. z własnej inicjatywy;
+   2. na pisemny wniosek komisji rewizyjnej;
+   3. na pisemny wniosek 1/3 członków Stowarzyszenia, którzy mają prawo uczestniczyć w Walnym Zgromadzeniu z głosem stanowiącym.
+   4. Zarząd jest obowiązany powiadomić pisemnie o terminie, miejscu i porządku obrad Walnego Zgromadzenia wszystkich członków Stowarzyszenia w terminie co najmniej 14 dni przed planowaną datą Walnego Zgromadzenia.
+   5. Walne Zgromadzenie może się odbyć bez formalnego zwołania, jeżeli na Walnym Zgromadzeniu są reprezentowani wszyscy członkowie Stowarzyszenia uprawnieni do głosowania.
+   6. Członkowie Stowarzyszenia mogą brać udział w Walnym Zgromadzeniu osobiście lub przez ustanowionego prawomocnie pełnomocnika.
+5. Do kompetencji Walnego Zgromadzenia należy:
+    1. zatwierdzanie planów działalności Stowarzyszenia;
+    2. wybór prezesa i członków zarządu oraz członków komisji rewizyjnej, z zastrzeżeniem ust. 4.3. pkt. 3 h) oraz 4.4. pkt. 5 f) statutu;
+    3. zatwierdzenie sprawozdania z działalności oraz sprawozdania finansowego przygotowanego przez zarząd za poprzedni rok obrachunkowy;
+    4. udzielanie zarządowi absolutorium za poprzedni rok obrachunkowy;
+    5. zatwierdzanie sprawozdań komisji rewizyjnej z jej działalności;
+    6. ustalanie wysokości i terminu opłacania składek członkowskich;
+    7. nadawanie statusu członka wspierającego Stowarzyszenia;
+    8. podejmowanie uchwał wyrażających zgodę dla Zarządu, na czynności w sprawach wykraczających poza zwykły zarząd a w szczególności dotyczących zaciągania majątkowych zobowiązań lub nabywania prawa o wartości przekraczającej 50.000 zł (pięćdziesiąt tysięcy złotych);
+    9. podejmowanie uchwał dotyczących zmian statutu lub rozwiązania Stowarzyszenia oraz przeznaczenia majątku Stowarzyszenia po jego rozwiązaniu z zastrzeżeniem ograniczeń w par. 5 pkt 2. statutu;
+   10. rozpatrywanie odwołań od uchwał Zarządu;
+   11. uchwalanie regulaminów wewnętrznych;
+   12. inne sprawy nie leżące w kompetencji pozostałych władz Stowarzyszenia.
+6. Jeżeli statut nie stanowi inaczej, uchwały Walnego Zgromadzenia zapadają zwykłą większością głosów przy obecności połowy członków Stowarzyszenia uprawnionych do głosowania na Walnym Zgromadzeniu w pierwszym terminie, na który zostało zwołane Walne Zgromadzenie. Jeżeli w pierwszym terminie nie było wymaganej frekwencji, dla ważności uchwał w drugim terminie wystarczy obecność jednej trzeciej członków Stowarzyszenia uprawnionych do głosowania.
+7. Uchwały Walnego Zgromadzenia w sprawach z ust. 4.2 pkt. 8 g), h) i i) są podejmowane większością 2/3 głosów, przy obecności co najmniej połowy członków Stowarzyszenia mających prawo głosu stanowiącego w Walnym Zgromadzeniu.
+8. Uchwały Walnego Zgromadzenia są podejmowane w głosowaniu jawnym, z wyjątkiem spraw dotyczących udzielenia absolutorium członkom zarządu oraz wyboru do władz Stowarzyszenia. Walne Zgromadzenie może również podjąć uchwałę o głosowaniu tajnym w innych sprawach niż wymienione w niniejszym punkcie.
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+4\.3. Zarząd
 
-<hr>
+1. Organem wykonawczym Stowarzyszenia jest zarząd.
+2. W skład zarządu wchodzi prezes oraz dwaj do czterech członków. Zarząd jest powoływany na 2 (dwa) lata. Pierwsza kadencja Zarządu kończy się wraz z zatwierdzeniem sprawozdania finansowego za 2019rok.
+3. Do kompetencji Zarządu należy:
+    1. reprezentowanie Stowarzyszenia oraz prowadzenie jego spraw w granicach określonych statutem. Do reprezentowania Stowarzyszenia w sprawach zaciągania zobowiązań lub nabywania praw związanych z rozporządzaniem majątkiem Stowarzyszenia wymagane jest działanie prezesa z jednym członkiem zarządu lub dwóch członków zarządu łącznie. W pozostałych sprawach każdy członek zarządu może reprezentować Stowarzyszenie oraz prowadzić sprawy Stowarzyszenia samodzielnie w granicach kompetencji zarządu;
+    2. realizacja uchwał Walnego Zgromadzenia;
+    3. sporządzanie planów działalności Stowarzyszenia;
+    4. sporządzanie sprawozdań z działalności Stowarzyszenia oraz sprawozdań finansowych za poprzedni rok obrachunkowy;
+    5. podejmowanie uchwał w sprawach przyjmowania, skreślania i wykluczania członków zwyczajnych Stowarzyszenia;
+    6. przedstawianie Walnemu Zgromadzeniu wniosków o nadanie statusu członka wspierającego Stowarzyszenia;
+    7. zwoływanie Walnych Zgromadzeń;
+    8. w przypadku dobrowolnej rezygnacji lub śmierci członka lub prezesa zarządu przed upływem kadencji, zarząd ma prawo, na podstawie jednomyślnej uchwały, powołać do zarządu dodatkową osobę lub prezesa zarządu, na czas pozostały do upływu kadencji;
+    9. prowadzenie postępowania mediacyjnego w zakresie sporów pomiędzy członkami Stowarzyszenia powstałych w związku z jego działalnością;
+   10. uchwalanie regulaminów zarządu i innych wewnętrznych praw Stowarzyszenia;
 
-##### Image
+4\.4. Komisja rewizyjna
 
-![image](../../images/blog/blog-1.jpg)
+1. Komisja rewizyjna składa się z 2 (dwóch) do 3 (trzech) członków, spośród których członkowie komisji rewizyjnej wybierają przewodniczącego.
+2. Komisja rewizyjna jest powoływana na dwa lata. Pierwsza kadencja komisji rewizyjnej kończy się wraz z zatwierdzeniem sprawozdania finansowego za 2019 rok.
+3. Członkiem komisji rewizyjnej nie może zostać osoba, która:
+    1. jest członkiem zarządu lub pozostaje z członkiem zarządu w stosunku pokrewieństwa, powinowactwa lub podległości z tytułu zatrudnienia, lub
+    2. była skazana na karę pozbawienia wolności prawomocnym wyrokiem za przestępstwo z winy umyślnej.
+    3. Pełnienie funkcji członka komisji rewizyjnej jest bezpłatne.
+    4. Do kompetencji komisji rewizyjnej należy:
+    5. kontrolowanie co najmniej raz w roku działalności Stowarzyszenia;
+    6. występowanie do zarządu Stowarzyszenia z wnioskami wynikającymi z ustaleń kontroli i żądanie wyjaśnień;
+    7. składanie wniosków do zarządu o zwołanie nadzwyczajnego Walnego Zgromadzenia;
+    8. składanie Walnemu Zgromadzeniu sprawozdań ze swojej działalności;
+    9. występowanie do Walnego Zgromadzenia o udzielenie absolutorium zarządowi w wykonania przez niego obowiązków w poprzednim roku obrachunkowym;
+   10. w przypadku dobrowolnej rezygnacji lub śmierci członka komisji rewizyjnej przed upływem kadencji, pozostali członkowie komisji mają prawo, na podstawie jednomyślnej uchwały, powołać do komisji rewizyjnej dodatkową osobę na czas pozostały do upływu kadencji.
 
-<hr>
+# § 5 Majątek Stowarzyszenia
 
-##### Youtube video
+1. Majątek Stowarzyszenia tworzony jest z:
+   1. składek członkowskich;
 
-{{< youtube C0DPdy98e4c >}}
+
+   1. darowizn, spadków, dotacji, zapisów;
+
+
+   2. Stowarzyszeniu nie wolno:
+      1. udzielać pożyczek lub zabezpieczać zobowiązań majątkiem Stowarzyszenia w stosunku do jego członków, członków władz Stowarzyszenia lub pracowników oraz osób, z którymi członkowie Stowarzyszenia, członkowie władz Stowarzyszenia lub pracownicy pozostają w związku małżeńskim albo stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia albo są związani z tytułu przysposobienia, opieki lub kurateli, zwanych dalej „**Osobami Bliskimi**”,
+      2. przekazywać majątku Stowarzyszenia na rzecz jego członków, członków władz Stowarzyszenia lub pracowników oraz Osób Bliskich, na zasadach innych niż w stosunku do osób trzecich, w szczególności jeżeli przekazanie to następuje bezpłatnie lub na preferencyjnych warunkach,
+      3. wykorzystywać majątku na rzecz członków Stowarzyszenia, członków władz Stowarzyszenia lub pracowników oraz Osób Bliskich na zasadach innych niż w stosunku do osób trzecich, chyba, że to wykorzystanie bezpośrednio wynika ze statutu Stowarzyszenia,
+      4. kupować na szczególnych zasadach towarów lub usług od podmiotów, w których uczestniczą członkowie Stowarzyszenia, członkowie władz Stowarzyszenia, pracownicy lub Osoby Bliskie.
+      5. Stowarzyszenie nie prowadzi działalności gospodarczej. Majątek Stowarzyszenia może być wykorzystywany wyłącznie na realizację jego celów statutowych.
+
+# § 6 Postanowienia końcowe
+
+1. W przypadku podjęcia uchwały o rozwiązaniu Stowarzyszenia i o przeznaczeniu jego majątku pozostałego po likwidacji, Walne Zgromadzenie ma obowiązek wyznaczyć likwidatorów Stowarzyszenia, którzy będą odpowiedzialni za przeprowadzenie likwidacji Stowarzyszenia.
+
+2. Uchwałę o wyborze likwidatorów, Walne Zgromadzenie podejmuje w trybie określonym w par. 4 ust. 4.2. pkt. 10 statutu.
+
+3. Po zarejestrowaniu Stowarzyszenia, komitet założycielski zwoła pierwsze Walne Zgromadzenie, na którym zostaną przeprowadzone wybory do zarządu i komisji rewizyjnej.
