@@ -5,7 +5,7 @@ description: this is meta description
 ---
 {{< center >}}
 
-# Kim jestemy
+# Kim Jesteśmy
 
 {{</ center >}}
 
