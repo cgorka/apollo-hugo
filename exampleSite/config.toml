@@ -34,7 +34,7 @@ description = "Zielona Cerekiew"
 favicon = "images/favicon.png"
 logo = "images/logo-via-logohub-1.png"
 logo_width = "200px"
-main_section = "post"
+main_section = "about"
 [params.cookies]
 enable = false
 expire_days = 2
