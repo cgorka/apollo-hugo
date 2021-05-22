@@ -6,6 +6,8 @@ image: "/images/download.jpeg"
 ---
 {{< center >}}
 
+![](/images/download.jpeg)
+
 ###### zielonacerekiew@gmail.com
 
 {{</ center >}}
