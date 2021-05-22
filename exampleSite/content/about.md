@@ -14,7 +14,7 @@ Jesteśmy grupą osób, które chcą  pozytywnego, pozbawionego waśni, sporów 
 
 {{< center >}}
 
-# **INICJATYWA**
+# **Inicjatywa**
 
 {{</ center >}}
 
@@ -22,7 +22,7 @@ Inicjatywa powstania Stowarzyszenia Zielona Cerekiew narodziła się w 2021 roku
 
 {{< center >}}
 
-# **IDEA**
+# **Idea**
 
 {{</ center >}}
 
