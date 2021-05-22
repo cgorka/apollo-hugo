@@ -3,7 +3,11 @@ title: Statut
 description: this is meta description
 
 ---
+{{< center >}}
+
 ![](/images/images.jpeg)
+
+{{</ center >}}
 
 ## § 1 Postanowienia ogóle
 
