@@ -35,6 +35,7 @@ favicon = "images/favicon.png"
 logo = "images/logo-via-logohub-1.png"
 logo_width = "200px"
 main_section = "post"
+social = []
 [params.cookies]
 enable = false
 expire_days = 2
@@ -52,11 +53,3 @@ text_color = "#333"
 text_color_dark = "#000"
 text_color_light = "#999"
 white = "#fff"
-[[params.social]]
-icon = "fab fa-facebook"
-link = "#"
-title = "facebook"
-[[params.social]]
-icon = "fab fa-instagram"
-link = "#"
-title = "instagram"
