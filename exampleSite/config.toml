@@ -16,7 +16,7 @@ name = "Nasze Cele"
 url = "elements"
 weight = 2
 [[menu.main]]
-name = "Terms & Conditions"
+name = "Statut"
 url = "terms-conditions"
 weight = 3
 [[menu.main]]
