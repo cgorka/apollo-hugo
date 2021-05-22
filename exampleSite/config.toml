@@ -12,7 +12,7 @@ name = "O nas"
 url = "About"
 weight = "1"
 [[menu.main]]
-name = "Nasze Cele"
+name = "Statut"
 url = "elements"
 weight = 2
 [[menu.main]]
