@@ -3,6 +3,8 @@ title: Statut
 description: this is meta description
 
 ---
+![](/images/images.jpeg)
+
 ## § 1 Postanowienia ogóle
 
 1. Stowarzyszenie nosi nazwę: „Zielona Cerekiew”, dalej zwane jest „Stowarzyszeniem”.
