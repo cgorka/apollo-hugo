@@ -1,30 +1,24 @@
 ---
-title: "Terms And Conditions"
-description: "this is meta description"
-draft: false
+title: Nasze Cele
+description: this is meta description
+
 ---
+#### Bezpieczeństwo​​
 
+Bylibyśmy dalecy od prawdy, mówiąc, że Cerekiwe jest niebezpieczną dzielnicą. Patrzymy jednak w przód i wraz z rozwojem osobowym oraz łatwiejszym dostępem komunikacyjnym do Cerekwi, będą pojawiały się nowe zagrożenia.
 
-#### Responsibility of Contributors
+#### Komunikacja i logistyka
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
+#### Estetyka przestrzeni 
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+#### Integracja sąsiedzka:
 
-#### Gathering of Personal Information
+Naszym podstawowym wyróżnikiem ma być pozytywne podejście do siebie nawzajem, oparte na wzajemnym szacunku, zrozumieniu różnych poglądów na te same kwestie. Chcemy zarażać nim innych. Chcemy aby Cerekiew była dzielnicą ludzi otwartych, uśmiechniętych mówiących sobie dzień dobry, wspierających się i pomagających sobie nawzajem. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### Ekologia:
 
-#### Protection of  Personal- Information
+Cerekiew jako cała miejscowosc , posiada bardzo dużo terenów zielonych. Ziemia jest dla nas wszystkich dla rolnikow, mieszkancow oraz gosci. Dbajmy o nią wspolnie.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+#### Urbanistyka i zagospodarowanie przestrzenne:
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
-
-#### Privacy Policy Changes
-
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+Rolą stowarzyszenia Zielona Cerekiew jest racjonalne postrzeganie Cerekwi celem zachowania równowagi pomiędzy potrzebami lokalnych mieszkańców, a interesami rolnikow, inwestorów, przy zachowaniu właściwej kultury i spójności architektonicznej.
