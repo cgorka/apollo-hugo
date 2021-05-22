@@ -3,7 +3,7 @@ title: Cerekiew, kościół parafialny p.w. św. Stanisława Bpa, 1929 r.
 date: 2020-09-01T11:07:10.000+06:00
 image: "/images/kosciol2-1.jpeg"
 image_webp: images/blog/blog-8.webp
-description: this is meta description
+description: Kosciol
 categories:
 - Historia
 
