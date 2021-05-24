@@ -46,9 +46,8 @@ Celem Stowarzyszenia jest:
           * korzystać z pomocy i wsparcia Stowarzyszenia na zasadach przewidzianych w statucie i innych dokumentach Stowarzyszenia.
    6. Do obowiązków członków Stowarzyszenia należy:
       1. przestrzeganie postanowień statutu, regulaminów i uchwał władz Stowarzyszenia;
-      2. regularne opłacanie składek członkowskich;
-      3. propagowanie dobrego imienia Stowarzyszenia;
-      4. aktywne uczestniczenie w działalności Stowarzyszenia.
+      2. propagowanie dobrego imienia Stowarzyszenia;
+      3. aktywne uczestniczenie w działalności Stowarzyszenia.
    7. Członkiem Stowarzyszenia może zostać osoba, która spełnia warunki określone w statucie Stowarzyszenia, akceptuje statut oraz wyraża wolę aktywnego uczestniczenia w pracach Stowarzyszenia.
    8. Kandydat na członka Stowarzyszenia wypełnia deklarację członkowską. Osoba, której kandydatura zostanie pozytywnie zweryfikowana przez zarząd Stowarzyszenia staje się członkiem Stowarzyszenia na podstawie uchwały zarządu Stowarzyszenia.
    9. Członkostwo w Stowarzyszeniu ustaje na skutek:
@@ -130,7 +129,7 @@ Celem Stowarzyszenia jest:
 # § 5 Majątek Stowarzyszenia
 
 1. Majątek Stowarzyszenia tworzony jest z:
-   1. składek członkowskich;
+   1. składek członkowskich
    2. darowizn, spadków, dotacji, zapisów;
    3. Stowarzyszeniu nie wolno:
       1. udzielać pożyczek lub zabezpieczać zobowiązań majątkiem Stowarzyszenia w stosunku do jego członków, członków władz Stowarzyszenia lub pracowników oraz osób, z którymi członkowie Stowarzyszenia, członkowie władz Stowarzyszenia lub pracownicy pozostają w związku małżeńskim albo stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia albo są związani z tytułu przysposobienia, opieki lub kurateli, zwanych dalej „**Osobami Bliskimi**”,
