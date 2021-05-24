@@ -12,10 +12,6 @@ name = "O nas"
 url = "About"
 weight = "1"
 [[menu.main]]
-name = "Statut"
-url = "elements"
-weight = 2
-[[menu.main]]
 name = "Nasze Cele"
 url = "terms-conditions"
 weight = 3
