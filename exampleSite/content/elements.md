@@ -129,8 +129,8 @@ Celem Stowarzyszenia jest:
 # § 5 Majątek Stowarzyszenia
 
 1. Majątek Stowarzyszenia tworzony jest z:
-   1. składek członkowskich
-   2. darowizn, spadków, dotacji, zapisów;
+   1. Dobrowolnych składek członkowskich
+   2. darowizn, dotacji;
    3. Stowarzyszeniu nie wolno:
       1. udzielać pożyczek lub zabezpieczać zobowiązań majątkiem Stowarzyszenia w stosunku do jego członków, członków władz Stowarzyszenia lub pracowników oraz osób, z którymi członkowie Stowarzyszenia, członkowie władz Stowarzyszenia lub pracownicy pozostają w związku małżeńskim albo stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia albo są związani z tytułu przysposobienia, opieki lub kurateli, zwanych dalej „**Osobami Bliskimi**”,
       2. przekazywać majątku Stowarzyszenia na rzecz jego członków, członków władz Stowarzyszenia lub pracowników oraz Osób Bliskich, na zasadach innych niż w stosunku do osób trzecich, w szczególności jeżeli przekazanie to następuje bezpłatnie lub na preferencyjnych warunkach,
