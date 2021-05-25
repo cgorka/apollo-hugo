@@ -22,7 +22,7 @@ weight = 4
 [outputs]
 home = ["HTML", "RSS"]
 [params]
-author = "Cgorka"
+author = "Zielona Cerekiew"
 banner_content = "\n\n"
 copyright = ""
 custom_script = ""
