@@ -2,7 +2,7 @@
 categories = ["Historia"]
 date = 2021-05-24T22:00:00Z
 description = ""
-image = ""
+image = "/images/przechwytywanie2.JPG"
 title = "Nazwa Miejcowości"
 
 +++
