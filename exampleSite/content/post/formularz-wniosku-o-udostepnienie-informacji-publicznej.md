@@ -26,6 +26,12 @@ Adresy Naszej gminy są podane tu:
 
 [https://zakrzew.pl/kontakt/](https://zakrzew.pl/kontakt/ "https://zakrzew.pl/kontakt/")
 
+W nagówku należy zmienić na 
+
+**URZĄD GMINY  
+**Zakrzew 51  
+26-652 Zakrzew
+
 Source:
 
 [https://www.gov.pl/web/sprawiedliwosc/formularz-wniosku-o-udostepnienie-informacji-publicznej](https://www.gov.pl/web/sprawiedliwosc/formularz-wniosku-o-udostepnienie-informacji-publicznej "https://www.gov.pl/web/sprawiedliwosc/formularz-wniosku-o-udostepnienie-informacji-publicznej")
