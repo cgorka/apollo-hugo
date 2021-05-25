@@ -10,7 +10,7 @@ image: "/images/logo-via-logohub-1.png"
 
 {{</ center >}}
 
-Jesteśmy grupą osób, które chcą  pozytywnego, pozbawionego waśni, sporów miejsca w którym żyjemy. Pracujemy na rzecz społeczności lokalnej, naszych sąsiadów i mieszkańców.
+Jesteśmy grupą osób, które chcą  pozytywnego  miejsca w którym żyjemy. Pracujemy na rzecz społeczności lokalnej, naszych sąsiadów i mieszkańców.
 
 {{< center >}}
 
