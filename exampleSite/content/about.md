@@ -26,7 +26,7 @@ Inicjatywa powstania Stowarzyszenia Zielona Cerekiew narodziła się  wśród gr
 
 {{</ center >}}
 
-Miejsca do życia jest wiele lat, a często na całe życie
+Miejsce do życia jest wiele lat, a często na całe życie
 
 Tu żyjemy, pracujemy i spędzamy czas wolny. Niesie ze sobą kolejne działania, takie jak dbanie o wspólną przestrzeń, komfort, otoczenie, infrastrukturę. 
 
