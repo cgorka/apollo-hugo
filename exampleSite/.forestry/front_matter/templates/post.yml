@@ -18,4 +18,5 @@ fields:
   name: categories
   label: categories
 pages:
+- exampleSite/content/post/formularz-wniosku-o-udostepnienie-informacji-publicznej.md
 - exampleSite/content/post/nazwa-miejcowosci.md
