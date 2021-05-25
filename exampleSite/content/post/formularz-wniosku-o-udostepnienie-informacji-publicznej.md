@@ -6,7 +6,6 @@ image = "/images/images.jpg"
 title = "Formularz wniosku o udostępnienie informacji publicznej"
 
 +++
-
 Każdy ma prawo do uzyskania informacji o działalności Ministerstwa Sprawiedliwości i funkcjonowaniu polskiego wymiaru sprawiedliwości w zakresie przewidzianym w [**ustawie o dostępie do informacji publicznej**](http://isap.sejm.gov.pl/DetailsServlet?id=WDU20140000782) (Dz.U. 2014 poz. 782 ze zm.).
 
 Zasady udzielania informacji publicznej w Ministerstwie Sprawiedliwości reguluje:
@@ -23,6 +22,6 @@ wniosek-o-udostepnienie-informacji-publicznej​_​_2.doc0.04MB**](https://www.
 
 Każdy z zainteresowanych może wysłać taki wniosek
 
-Adresy są podane tu
+Adresy Naszej gminy są podane tu:
 
 [https://zakrzew.pl/kontakt/](https://zakrzew.pl/kontakt/ "https://zakrzew.pl/kontakt/")
