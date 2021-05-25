@@ -25,3 +25,7 @@ Każdy z zainteresowanych może wysłać taki wniosek
 Adresy Naszej gminy są podane tu:
 
 [https://zakrzew.pl/kontakt/](https://zakrzew.pl/kontakt/ "https://zakrzew.pl/kontakt/")
+
+Source:
+
+[https://www.gov.pl/web/sprawiedliwosc/formularz-wniosku-o-udostepnienie-informacji-publicznej](https://www.gov.pl/web/sprawiedliwosc/formularz-wniosku-o-udostepnienie-informacji-publicznej "https://www.gov.pl/web/sprawiedliwosc/formularz-wniosku-o-udostepnienie-informacji-publicznej")
