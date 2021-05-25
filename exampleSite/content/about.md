@@ -14,20 +14,12 @@ Jesteśmy grupą osób, które chcą  pozytywnego  miejsca w którym żyjemy. Pr
 
 {{< center >}}
 
-# **Inicjatywa**
-
-{{</ center >}}
-
-Inicjatywa powstania Stowarzyszenia Zielona Cerekiew narodziła się  wśród grupy sąsiadów mieszkających na terenie Cerekewi.
-
-{{< center >}}
-
 # **Idea**
 
 {{</ center >}}
 
-Miejsce do życia jest wiele lat, a często na całe życie
+Miejsce do życia jest na wiele lat, a często na całe życie
 
-Tu żyjemy, pracujemy i spędzamy czas wolny. Niesie ze sobą kolejne działania, takie jak dbanie o wspólną przestrzeń, komfort, otoczenie, infrastrukturę. 
+Tu żyjemy, pracujemy i spędzamy czas wolny. Niesie ze sobą kolejne działania, takie jak dbanie o wspólną przestrzeń, komfort, otoczenie, infrastrukturę.
 
 Kolor zielony to kolor natury. Są między nami zwolennicy białego, czerwonego, niebieskiego, żółtego i dowolnych innych. Łączy nas wspólny cel.
