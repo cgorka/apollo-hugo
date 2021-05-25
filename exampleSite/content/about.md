@@ -26,6 +26,8 @@ Inicjatywa powstania Stowarzyszenia Zielona Cerekiew narodziła się  wśród gr
 
 {{</ center >}}
 
-Wybór miejsca do życia na wiele lat, a często na całe życie, jest decyzją, która niesie ze sobą kolejne działania, takie jak dbanie o wspólną przestrzeń, komfort, otoczenie, infrastrukturę. Wybraliśmy Cerekiew, tu żyjemy, pracujemy i spędzamy czas wolny. Połączyła nas miłość do tego miejsca.
+Miejsca do życia jest wiele lat, a często na całe życie
+
+Tu żyjemy, pracujemy i spędzamy czas wolny. Niesie ze sobą kolejne działania, takie jak dbanie o wspólną przestrzeń, komfort, otoczenie, infrastrukturę. 
 
 Kolor zielony to kolor natury. Są między nami zwolennicy białego, czerwonego, niebieskiego, żółtego i dowolnych innych. Łączy nas wspólny cel.
