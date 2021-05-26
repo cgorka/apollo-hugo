@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Baza Wiedzy"]
 date = 2021-05-01T22:00:00Z
 description = ""
 image = "/images/blog/blog-1.webp"
