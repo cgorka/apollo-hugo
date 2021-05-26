@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Informacje"]
 date = 2021-04-05T22:00:00Z
 description = ""
 image = "/images/pobrane.png"
