@@ -2,7 +2,7 @@
 categories = ["Historia"]
 date = 2021-03-06T23:00:00Z
 description = "na podstawie książki Zenona Gierały pt. „Baśnie i legendy ziemi radomskiej”"
-image = ""
+image = "/images/przechwytywanie222.JPG"
 title = "LEGENDA O POWSTANIU CEREKWI "
 
 +++
