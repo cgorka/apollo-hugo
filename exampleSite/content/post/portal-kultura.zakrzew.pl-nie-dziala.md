@@ -1,7 +1,8 @@
 +++
-categories = ["Działania W Trakcie"]
+categories = [".Działania W Trakcie"]
 date = 2021-05-25T22:00:00Z
 description = ""
+draft = true
 image = "/images/11przechwytywanie.JPG"
 title = "Portal kultura.zakrzew.pl Nie działa"
 
@@ -18,7 +19,13 @@ Taraz Niestety domena
 
 ![](/images/233322przechwytywanie.JPG)
 
-Portal ten powstał za pieniądze z Uni Europejsiej.
+Jednyną alternatywom jest Archiwum Internetu
+
+[https://web.archive.org/web/20181121060137/http://www.kultura.zakrzew.pl/](https://web.archive.org/web/20181121060137/http://www.kultura.zakrzew.pl/ "https://web.archive.org/web/20181121060137/http://www.kultura.zakrzew.pl/")
+
+Ale niestety strona w archiwum nie jest w pełni funkcjonalna.
+
+Portal ten powstał za pieniądze z Unii Europejskiej.
 
 ![](/images/222przechwytywanie.JPG)
 
