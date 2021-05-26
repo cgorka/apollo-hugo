@@ -14,6 +14,10 @@ Wysłaliśmy Pismo w sprawie portalu [http://kultura.zakrzew.pl/](http://kultura
 
 Portal ten niestety nie działa.
 
+Działa tylko archiwum które niestety nie jest w pełni funkcjonalne.
+
+[Kultura Zakrzew (archive.org)](https://web.archive.org/web/20181121060137/http://www.kultura.zakrzew.pl/)
+
 Jeżeli Nam się udało wysłać Pismo w tej sprawie, myślimy że każdy z mieszkańców może wysłać w dowolnej innej.
 
 Inne wskazówki znajdują się tu
