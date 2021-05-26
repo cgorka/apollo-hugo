@@ -6,11 +6,11 @@ image = "/images/11przechwytywanie.JPG"
 title = "Zapytanie do Gminy"
 
 +++
-Informujemy że przy pomocy instrukcji z 
+Informujemy że przy pomocy instrukcji z
 
 [https://zielonacerekiew.pl/post/elektroniczna-skrzynka-podawacza-jak-wyslac-pismo/](https://zielonacerekiew.pl/post/elektroniczna-skrzynka-podawacza-jak-wyslac-pismo/ "https://zielonacerekiew.pl/post/elektroniczna-skrzynka-podawacza-jak-wyslac-pismo/")
 
-Wysłaliśmy Pismo w sprawie portalu [kultura.zakrzew.pl](kultura.zakrzew.pl)[ ]()
+Wysłaliśmy Pismo w sprawie portalu [http://kultura.zakrzew.pl/](http://kultura.zakrzew.pl/ "http://kultura.zakrzew.pl/")
 
 Portal ten niestety nie działa.
 
