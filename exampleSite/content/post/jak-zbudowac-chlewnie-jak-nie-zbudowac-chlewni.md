@@ -6,8 +6,6 @@ image = "/images/images.jpg"
 title = "Jak zbudować chlewnię ? Jak nie zbudować chlewni ?"
 
 +++
-###### Zgodnie z ideą naszego stowarzyszenia chcemy szerzyć wiedzę.
-
 ### Wiedza powinna być dla wszystkich i powinna być darmowa.
 
 Poniżej przedstawiamy dwa artykuły.
