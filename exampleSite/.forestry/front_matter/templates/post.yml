@@ -18,6 +18,7 @@ fields:
   name: categories
   label: categories
 pages:
+- exampleSite/content/post/elektroniczna-skrzynka-podawacza-jak-wyslac-pismo.md
 - exampleSite/content/post/formularz-wniosku-o-udostepnienie-informacji-publicznej.md
 - exampleSite/content/post/kosciol-w-cerekwi.md
 - exampleSite/content/post/legenda-o-powstaniu-cerekwi.md
