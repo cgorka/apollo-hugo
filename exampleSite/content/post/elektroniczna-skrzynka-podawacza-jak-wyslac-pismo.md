@@ -1,6 +1,6 @@
 +++
 categories = []
-date = 2021-02-27T23:00:00Z
+date = 2021-04-05T22:00:00Z
 description = ""
 image = "/images/pobrane.png"
 title = "Elektroniczna Skrzynka Podawacza - Jak wysłać Pismo"
@@ -12,18 +12,30 @@ Chcesz załatwić nietypową sprawę przez internet? Złożyć podanie, wniosek,
 
 ### Informacje:
 
-* [Rozwiń tekst](https://www.gov.pl/web/gov/wyslij-pismo-ogolne#)
+* 
 
   ### **Co to jest pismo ogólne**
-* [Rozwiń tekst](https://www.gov.pl/web/gov/wyslij-pismo-ogolne#)
+
+  To pismo, które służy do komunikacji z administracją w sprawach, które możesz załatwić przez internet i które nie mają oddzielnych formularzy.
+
+  Możesz nam zadać pytanie, napisać wyjaśnienie, złożyć zażalenie, żądanie, podanie lub wniosek. Samodzielnie uzupełnij formularz na komputerze i wyślij na elektroniczną skrzynkę podawczą. Po chwili dostaniesz elektroniczne urzędowe poświadczenie przedłożenia (UPP) pisma. To potwierdzenie jest tak samo ważne jak potwierdzenie odbioru listu poleconego, który wysyłasz pocztą tradycyjną.
+
+  Pismo ogólne piszesz, jeśli:
+  * chcesz się z nami skontaktować,
+  * przepisy umożliwiają wysłanie pisma przez internet,
+  * nie ma specjalnego formularza do załatwienia twojej konkretnej sprawy.
+
+  **Sprawdź, czy nie ma formularza dla twojej sprawy – na przykład jeśli chcesz mieć dostęp do informacji publicznej, wyślij specjalny formularz do tego przeznaczony.**
 
   ### **Kto może wysłać**
-* [Rozwiń tekst](https://www.gov.pl/web/gov/wyslij-pismo-ogolne#)
+
+  Dla każdego, kto chce wysłać pismo ogólne i ma konto na platformie [ePUAP](http://www.gov.pl/gov/zalatwiaj-sprawy-urzedowe-przez-internet-na-epuap).
+
+  Potrzebny ci do tego profil zaufany (eGo) lub certyfikat kwalifikowany. Pozwalają one potwierdzić twoją tożsamość. [Sprawdź, jak założyć profil zaufany](https://www.gov.pl/gov/zaloz-profil-zaufany).
 
   ### **Co musisz przygotować**
   * dane do logowania na platformie ePUAP,
   * załączniki w wersji elektronicznej – jeśli będą potrzebne.
-* [Rozwiń tekst](https://www.gov.pl/web/gov/wyslij-pismo-ogolne#)
 
   ### **Co musisz zrobić**
   1. Przygotuj potrzebne dane. Szczegóły znajdziesz w sekcji **Co musisz przygotować**.
@@ -36,22 +48,18 @@ Chcesz załatwić nietypową sprawę przez internet? Złożyć podanie, wniosek,
   8. Czekaj na odpowiedź. Szczegóły znajdziesz w sekcji **Ile będziesz czekać**.
 
   **Jeśli wyślesz pismo bez podpisu, nie załatwisz spraw, które wymagają podpisu.**
-* [Rozwiń tekst](https://www.gov.pl/web/gov/wyslij-pismo-ogolne#)
 
   ### **Gdzie składasz dokumenty**
 
   Do urzędu lub innego podmiotu publicznego, który ma elektroniczną skrzynkę podawczą na platformie ePUAP. Są to na przykład ministerstwa, urzędy gminy, urzędy centralne, urzędy skarbowe, szkoły publiczne, publiczne zakłady opieki zdrowotnej, sanepid.
-* [Rozwiń tekst](https://www.gov.pl/web/gov/wyslij-pismo-ogolne#)
 
   ### **Ile zapłacisz**
 
   Usługa jest bezpłatna.
-* [Rozwiń tekst](https://www.gov.pl/web/gov/wyslij-pismo-ogolne#)
 
   ### **Ile czekasz**
 
   To zależy od rodzaju twojej sprawy.
-* [Rozwiń tekst](https://www.gov.pl/web/gov/wyslij-pismo-ogolne#)
 
   ### **Podstawa prawna**
 
