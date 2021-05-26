@@ -2,7 +2,6 @@
 categories = []
 date = 2021-03-14T23:00:00Z
 description = ""
-draft = true
 image = "/images/1-1.jpg"
 title = "Najstarsza część cmentarza rzymsko-katolickiego w Cerekwi w pow. radomskim w rejestrze zabytków"
 
