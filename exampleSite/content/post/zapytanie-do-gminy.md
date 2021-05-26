@@ -2,7 +2,7 @@
 categories = ["Nasze Działania"]
 date = 2021-05-01T22:00:00Z
 description = ""
-image = "/images/zapytanie-kulturazakrzew-test-skrzynki-podawczej-2-1.jpg"
+image = "/images/11przechwytywanie.JPG"
 title = "Zapytanie do Gminy"
 
 +++
