@@ -3,7 +3,7 @@ categories = ["Nasze Działania"]
 date = 2021-05-01T22:00:00Z
 description = ""
 image = "/images/11przechwytywanie.JPG"
-title = "Zapytanie do Gminy"
+title = "Zapytanie do Gminy w sprawie portalu kultura.zakrzew.pl"
 
 +++
 Informujemy że przy pomocy instrukcji z
