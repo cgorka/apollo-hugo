@@ -6,18 +6,18 @@ image = "/images/images.jpg"
 title = "Jak zbudować chlewnię ? Jak nie zbudować chlewni ?"
 
 +++
-Zgodnie z ideą naszego stowarzyszenia chcemy szerzyć wiedzę.
+###### Zgodnie z ideą naszego stowarzyszenia chcemy szerzyć wiedzę.
 
-Wiedza powinna być dla wszystkich i powinna być darmowa.
+### Wiedza powinna być dla wszystkich i powinna być darmowa.
 
 Poniżej przedstawiamy dwa artykuły.
 
-Jak zbudować chlewnię.
+##### Jak zbudować chlewnię.
 
 [broszura-szkolenie-budowa-chlewni.pdf](/images/broszura-szkolenie-budowa-chlewni.pdf "broszura-szkolenie-budowa-chlewni.pdf")
 
 Oraz
 
-Jak zapobiec budowie chlewni
+##### Jak zapobiec budowie chlewni
 
 [jak-zatrzymac-budowe-fermy-postepowanie-administracyjne-1.pdf](/images/jak-zatrzymac-budowe-fermy-postepowanie-administracyjne-1.pdf "jak-zatrzymac-budowe-fermy-postepowanie-administracyjne-1.pdf")
