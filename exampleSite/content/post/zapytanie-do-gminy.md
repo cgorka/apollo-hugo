@@ -2,6 +2,7 @@
 categories = ["Nasze Działania"]
 date = 2021-05-01T22:00:00Z
 description = ""
+draft = true
 image = "/images/11przechwytywanie.JPG"
 title = "Zapytanie do Gminy w sprawie portalu kultura.zakrzew.pl"
 
@@ -14,7 +15,7 @@ Wysłaliśmy Pismo w sprawie portalu [http://kultura.zakrzew.pl/](http://kultura
 
 Portal ten niestety nie działa.
 
-Działa tylko archiwum które niestety nie jest w pełni funkcjonalne.
+Działa tylko kopia w archiwum  które niestety nie jest w pełni funkcjonalne.
 
 [Kultura Zakrzew (archive.org)](https://web.archive.org/web/20181121060137/http://www.kultura.zakrzew.pl/)
 
