@@ -2,7 +2,6 @@
 categories = ["Działania W Trakcie", "Dziełania"]
 date = 2021-05-25T22:00:00Z
 description = ""
-draft = true
 image = "/images/11przechwytywanie.JPG"
 title = "Portal kultura.zakrzew.pl Nie działa"
 
