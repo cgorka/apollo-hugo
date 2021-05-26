@@ -6,10 +6,9 @@ image = "/images/pobrane.png"
 title = "Elektroniczna Skrzynka Podawacza - Jak wysłać Pismo"
 
 +++
-
 Chcesz załatwić nietypową sprawę przez internet? Złożyć podanie, wniosek, skargę czy zażalenie? Wypełnij formularz _pisma ogólnego_ i wyślij go na elektroniczną skrzynkę podawczą (ESP).
 
-[**WYŚLIJ PISMO OGÓLNE**](https://moj.gov.pl/pismo-ogolne/usluga-online/pages/xf/create.do?xFormsAppName=PismoOgolneDoPodmiotuPublicznego&amp;xFormsFormName=Wniosek&amp;xFormsOrigin=EXTERNAL)
+[**WYŚLIJ PISMO OGÓLNE**](https://moj.gov.pl/pismo-ogolne/usluga-online/pages/xf/create.do?xFormsAppName=PismoOgolneDoPodmiotuPublicznego&xFormsFormName=Wniosek&xFormsOrigin=EXTERNAL)
 
 ### Informacje:
 
