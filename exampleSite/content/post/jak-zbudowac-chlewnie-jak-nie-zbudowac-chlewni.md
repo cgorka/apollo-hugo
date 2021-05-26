@@ -21,5 +21,3 @@ Oraz
 Jak zapobiec budowie chlewni
 
 [jak-zatrzymac-budowe-fermy-postepowanie-administracyjne-1.pdf](/images/jak-zatrzymac-budowe-fermy-postepowanie-administracyjne-1.pdf "jak-zatrzymac-budowe-fermy-postepowanie-administracyjne-1.pdf")
-
-PS. Niestety nie znamy źrodła (dostalismy na FB jako PM) gdy tylko uda się ustalić źrodło uzupełnimy wpis.
