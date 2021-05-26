@@ -1,5 +1,5 @@
 +++
-categories = ["Działania W Trakcie", "Dziełania"]
+categories = ["Działania W Trakcie"]
 date = 2021-05-25T22:00:00Z
 description = ""
 image = "/images/11przechwytywanie.JPG"
